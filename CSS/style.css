@@ -1,0 +1,28 @@
+body
+{
+  background-color: #DAEAF1;
+}
+hr
+{
+  border-style:none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+img
+{
+  height: 200px;
+}
+h1
+{
+  color: #66BFBF;
+  font-style: italic;
+  font-weight: bolder;
+}
+h3
+{
+  color:#66BFBF;
+  font-weight: lighter;
+  text-align: center;
+}
