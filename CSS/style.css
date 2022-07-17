@@ -4,10 +4,10 @@ body
 }
 hr
 {
+  border-color: grey;
   border-style:none;
   border-top-style: dotted;
   border-top-width: 5px;
-  border-color: grey;
   width: 5%;
 }
 img
